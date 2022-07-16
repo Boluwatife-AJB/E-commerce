@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      <h1>Airbnb Clone</h1>
+      <h1>E-Commerce Web site</h1>
     </div>
   );
 }
