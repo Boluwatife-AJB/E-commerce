@@ -1,11 +1,12 @@
 import React from 'react';
+import Products from './components/Products/Products';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>E-Commerce Web site</h1>
+    <div>
+      <Products />
     </div>
   );
-}
+};
 
 export default App;
