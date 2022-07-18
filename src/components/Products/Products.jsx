@@ -4,8 +4,20 @@ import { Grid } from '@mui/material';
 import Product from './Product/Product';
 
 const products = [
-  { id: 1, name: 'Shoes', description: 'Running Shoes.', price: '$5' },
-  { id: 2, name: 'Macbook', description: 'Apple macbook.', price: '$15' },
+  {
+    id: 1,
+    name: 'Shoes',
+    description: 'Running Shoes.',
+    price: '$5',
+    // image: 'https://hips.hearstapps.com/',
+  },
+  {
+    id: 2,
+    name: 'Macbook',
+    description: 'Apple macbook.',
+    price: '$15',
+    // image: 'https://',
+  },
 ];
 
 const Products = () => {
